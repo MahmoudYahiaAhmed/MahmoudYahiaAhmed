@@ -1,5 +1,8 @@
 
-![mummytocat (1)](https://user-images.githubusercontent.com/109751694/209454079-fd133ad5-7591-429a-8cdb-9f0b9287ef7a.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/109751694/209454079-fd133ad5-7591-429a-8cdb-9f0b9287ef7a.gif" width="250" height="300"/>
+
+
 - 👋 Hi, I’m Mahmoud Yahia @BenYahia
 - My old account closed due to unusual behavior done by a malware I faced Thanks for understanding.
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
