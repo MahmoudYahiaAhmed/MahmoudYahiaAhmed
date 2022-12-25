@@ -8,7 +8,7 @@
 #### in Game development and NLP with some habits like reading about DDOS attacks.
 
 <br>
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me:***
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-yahia-4a98a2156/" target="(https://www.linkedin.com/in/mahmoud-yahia-4a98a2156/)"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
