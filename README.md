@@ -1,6 +1,7 @@
 
 ![mummytocat (1)](https://user-images.githubusercontent.com/109751694/209454079-fd133ad5-7591-429a-8cdb-9f0b9287ef7a.gif)
 - 👋 Hi, I’m Mahmoud Yahia @BenYahia
+- My old account closed due unusual behavior done by a malware I faced Thanks for understanding.
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 #### Data Scientist whos Seeking for learning, achieving. Most of my work is about solving the problems using the best solution regardless of 
 #### tools or science that help to achieve the goals. With acceptable knowledge with Desktop and Web Development. Dealing with data e.g 
